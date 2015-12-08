@@ -8,6 +8,10 @@ using System.Globalization;
 
 namespace ChartLib
 {
+  /// <summary>
+  /// Horizontal axis, could be of log or linear type
+  /// </summary>
+  /// <typeparam name="T"></typeparam>
   public class XAxis<T> : Axis
     where T : AxisScale, new()
   {
