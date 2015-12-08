@@ -1,0 +1,5 @@
+C:\Backup\C#Projects\GraphicsDemo\ChartLib\obj\Debug\ChartLib.csprojResolveAssemblyReference.cache
+C:\Backup\C#Projects\GraphicsDemo\ChartLib\bin\Debug\ChartLib.dll
+C:\Backup\C#Projects\GraphicsDemo\ChartLib\bin\Debug\ChartLib.pdb
+C:\Backup\C#Projects\GraphicsDemo\ChartLib\obj\Debug\ChartLib.dll
+C:\Backup\C#Projects\GraphicsDemo\ChartLib\obj\Debug\ChartLib.pdb

@@ -1,0 +1,12 @@
+﻿<Window x:Class="GraphicsDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:wf="clr-namespace:System.Windows.Forms;assembly=System.Windows.Forms"
+        xmlns:chart="clr-namespace:ChartLib;assembly=ChartLib"
+        Title="MainWindow" Height="350" Width="525" Loaded="Window_Loaded">
+    <Grid>
+        <WindowsFormsHost Name="windowsHost" Margin="10">
+            <chart:RenderView Name="renderView"  Dock="Fill"/>
+        </WindowsFormsHost>
+    </Grid>
+</Window>

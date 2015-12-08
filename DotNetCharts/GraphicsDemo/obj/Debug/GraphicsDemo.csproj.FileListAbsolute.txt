@@ -1,0 +1,15 @@
+C:\Backup\C#Projects\GraphicsDemo\GraphicsDemo\bin\Debug\GraphicsDemo.exe.config
+C:\Backup\C#Projects\GraphicsDemo\GraphicsDemo\bin\Debug\GraphicsDemo.exe
+C:\Backup\C#Projects\GraphicsDemo\GraphicsDemo\bin\Debug\GraphicsDemo.pdb
+C:\Backup\C#Projects\GraphicsDemo\GraphicsDemo\obj\Debug\GraphicsDemo.csprojResolveAssemblyReference.cache
+C:\Backup\C#Projects\GraphicsDemo\GraphicsDemo\obj\Debug\MainWindow.baml
+C:\Backup\C#Projects\GraphicsDemo\GraphicsDemo\obj\Debug\MainWindow.g.cs
+C:\Backup\C#Projects\GraphicsDemo\GraphicsDemo\obj\Debug\App.g.cs
+C:\Backup\C#Projects\GraphicsDemo\GraphicsDemo\obj\Debug\GraphicsDemo_MarkupCompile.cache
+C:\Backup\C#Projects\GraphicsDemo\GraphicsDemo\obj\Debug\GraphicsDemo.g.resources
+C:\Backup\C#Projects\GraphicsDemo\GraphicsDemo\obj\Debug\GraphicsDemo.Properties.Resources.resources
+C:\Backup\C#Projects\GraphicsDemo\GraphicsDemo\obj\Debug\GraphicsDemo.csproj.GenerateResource.Cache
+C:\Backup\C#Projects\GraphicsDemo\GraphicsDemo\obj\Debug\GraphicsDemo.exe
+C:\Backup\C#Projects\GraphicsDemo\GraphicsDemo\obj\Debug\GraphicsDemo.pdb
+C:\Backup\C#Projects\GraphicsDemo\GraphicsDemo\bin\Debug\ChartLib.dll
+C:\Backup\C#Projects\GraphicsDemo\GraphicsDemo\bin\Debug\ChartLib.pdb
